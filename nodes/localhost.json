@@ -1,0 +1,7 @@
+{
+  "run_list" : [
+    "recipe[dmg]",
+    "recipe[homebrew]",
+    "recipe[scala]"
+  ]
+}
