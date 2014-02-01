@@ -1,0 +1,14 @@
+{
+  "sources": {
+    "dmg": {
+      "locked_version": "2.1.5",
+      "git": "git://github.com/opscode-cookbooks/dmg.git",
+      "ref": "005e4147cce1cf8f121ffe29ccdd4fe3de8c47aa"
+    },
+    "homebrew": {
+      "locked_version": "1.5.5",
+      "git": "git://github.com/opscode-cookbooks/homebrew.git",
+      "ref": "2245d7f174c4ad0ca794c9c49601ee72d8d4f334"
+    }
+  }
+}
