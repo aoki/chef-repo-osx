@@ -1,17 +1,14 @@
 scala Cookbook
 ==============
-TODO: Enter the cookbook description here.
-
-e.g.
-This cookbook makes your favorite breakfast sandwich.
+Install the scala via the homebrew command.
 
 Requirements
 ------------
-TODO: List your cookbook requirements. Be sure to include any requirements this cookbook has on platforms, libraries, other cookbooks, packages, operating systems, etc.
+#### OS
+- Mac OS X
 
-e.g.
-#### packages
-- `toaster` - scala needs toaster to brown your bagel.
+#### cookbooks
+- `homebrew`: scala needs homebrew of cookbook.
 
 Attributes
 ----------
